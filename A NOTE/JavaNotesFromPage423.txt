@@ -1,0 +1,4 @@
+->
+    you can write System.out.println(loan) instead of System.out.println(loan.toString()) as known as "java.lang.Object".
+->
+    
